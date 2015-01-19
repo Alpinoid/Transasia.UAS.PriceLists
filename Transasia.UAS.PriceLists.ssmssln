@@ -3,12 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # SQL Server Management Studio Solution File, Format Version 12.00
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "CHM. Прайс-лист", "CHM. Прайс-лист\CHM. Прайс-лист.ssmssqlproj", "{A35BBA94-02EB-4486-A41E-C4FA16E7605F}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Представления. Общие", "Представления. Общие\Представления. Общие.ssmssqlproj", "{DD7E5212-6032-42CA-A134-632583984A36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{A35BBA94-02EB-4486-A41E-C4FA16E7605F}.Default|Default.ActiveCfg = Default
+		{44FFBE63-B07B-444B-AD95-CC7B959EE24F}.Default|Default.ActiveCfg = Default
+		{DD7E5212-6032-42CA-A134-632583984A36}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
